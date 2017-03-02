@@ -1,0 +1,9 @@
+{
+  "name": "get-cursor-position-fail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "get-cursor-position": "^1.0.3"
+  }
+}
