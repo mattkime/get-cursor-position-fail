@@ -2,6 +2,8 @@
 
 This repo was created to show yarn, as included in the offical docker image, fail to install `get-cursor-position`
 
+Running `docker build .` from the repo directory results in -
+
 ```
 [4/4] Building fresh packages...
 error /home/mup/node_modules/get-cursor-position: Command failed.
